@@ -25,6 +25,10 @@ I’m Soumendu Roy, a Master’s student with a solid background in software dev
 
 ---
 
+### 📊 GitHub Stats
+
+![Soumendu's GitHub stats](https://github-readme-stats.vercel.app/api?username=roysoumendu765&show_icons=true&theme=radical)
+
 ## 🌟 Highlights  
 ### Competitive Programming  
 - **LeetCode**: Solved 200+ questions ([Profile](https://leetcode.com/roysoumendu765))  
