@@ -1,4 +1,4 @@
-# 👋 Hi there,
+👋 Hi there,
 I’m Soumendu Roy, a Master’s student with a solid background in software development and real-world project delivery. 🚀 Passionate about problem-solving and creating user-focused solutions, I’m eager to leverage my academic and professional expertise in a challenging role within the software industry. 💻
 
 ## 🛠 Skills & Tools  
