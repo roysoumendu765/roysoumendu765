@@ -23,18 +23,11 @@ I’m Soumendu Roy, a Master’s student with a solid background in software dev
 ![Postman](https://img.shields.io/badge/-Postman-orange?logo=postman)
 ![VS Code](https://img.shields.io/badge/-VSCode-blue?logo=visualstudiocode)
 
----
-
-### 📊 GitHub Stats
-
-![Soumendu's GitHub stats](https://github-readme-stats.vercel.app/api?username=roysoumendu765&show_icons=true&theme=radical)
-
 ## 🌟 Highlights  
 ### Competitive Programming  
 - **LeetCode**: Solved 200+ questions ([Profile](https://leetcode.com/roysoumendu765))  
 - **CodeChef**: Participated in 15+ contests ([Profile](https://codechef.com/users/roysoumendu765))  
 - **Hackerrank**: 5-star rated programmer ([Profile](https://hackerrank.com/roysoumendu765))  
-
 
 ## 📫 Contact Me  
 - **Email**: [roysoumendu765@gmail.com](mailto:roysoumendu765@gmail.com)  
