@@ -25,7 +25,7 @@ I’m Soumendu Roy, a Master’s student with a solid background in software dev
 
 ## 🌟 Highlights  
 ### Competitive Programming  
-- **LeetCode**: Solved 200+ questions ([Profile](https://leetcode.com/roysoumendu765))  
+- **LeetCode**: Solved 250+ questions ([Profile](https://leetcode.com/roysoumendu765))  
 - **CodeChef**: Participated in 15+ contests ([Profile](https://codechef.com/users/roysoumendu765))  
 - **Hackerrank**: 5-star rated programmer ([Profile](https://hackerrank.com/roysoumendu765))  
 
